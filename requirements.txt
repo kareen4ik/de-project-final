@@ -1,0 +1,3 @@
+python-dotenv
+vertica-python
+psycopg
